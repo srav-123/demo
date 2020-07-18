@@ -5,3 +5,5 @@ git config user.name "sravs"
 git config user.email "its@gmail.com"
 git init <name of the repositry for new">
 git clone <git repositry address link >
+git add <file>
+git pull <file name/repositry/branch>
